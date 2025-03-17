@@ -1,0 +1,26 @@
+body {
+    background-color: lightblue;
+    }
+ 
+h1 {
+    color: rgb(248, 0, 0);
+    text-align: center;
+    }
+ 
+h2,h3 {
+    font-family: "Mitr", sans-serif;
+    color: rgb(247, 0, 0);
+    }
+
+h4 {
+    font-family: "Mitr", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    }
+
+p {
+    font-family: "Sarabun", serif;
+    font-weight: 200;
+    font-style: normal;
+    }
+
